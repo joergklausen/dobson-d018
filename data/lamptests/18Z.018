@@ -1,0 +1,72 @@
+01/09/2021 11:25:20
+Standard Lamp Name: 18Z
+Instrument Temperature: 21.8
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	61.0	60.5	61.0	60.8	12.40	12.38	-0.02
+Test C	62.2	62.0	62.0	62.1	16.13	16.28	 0.15
+Test D	63.0	63.0	62.9	63.0	18.76	18.80	 0.04
+
+
+08/09/2021 11:44:36
+Standard Lamp Name: 18Z
+Instrument Temperature: 20.5
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	61.0	60.5	60.4	60.6	12.18	12.38	 0.20
+Test C	62.3	62.2	61.6	62.0	16.10	16.28	 0.18
+Test D	62.6	62.8	62.6	62.7	18.43	18.80	 0.37
+
+
+15/09/2021 10:00:55
+Standard Lamp Name: 18Z
+Instrument Temperature: 22.0
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	61.0	61.5	61.0	61.2	12.76	12.38	-0.38
+Test C	62.5	62.5	62.5	62.5	16.60	16.28	-0.32
+Test D	63.0	63.2	63.2	63.1	18.95	18.80	-0.15
+
+
+23/09/2021 10:24:56
+Standard Lamp Name: 18Z
+Instrument Temperature: 22.9
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	61.0	61.0	61.0	61.0	12.58	12.38	-0.20
+Test C	62.5	62.5	62.5	62.5	16.60	16.28	-0.32
+Test D	63.0	63.0	62.7	62.9	18.69	18.80	 0.11
+
+
+29/09/2021 13:47:03
+Standard Lamp Name: 18Z
+Instrument Temperature: 24.4
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	61.2	61.0	61.0	61.1	12.65	12.38	-0.27
+Test C	62.5	62.4	62.5	62.5	16.56	16.28	-0.28
+Test D	63.0	63.2	63.1	63.1	18.91	18.80	-0.11
+
+
+04/11/2022 11:21:31
+Standard Lamp Name: 18Z
+Instrument Temperature: 22.5
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	60.4	61.5	60.0	60.6	12.88	12.38	-0.50
+Test C	61.0	61.6	61.5	61.4	16.28	16.28	 0.00
+Test D	62.1	62.8	62.1	62.3	18.37	18.80	 0.43
+
+
+23/11/2022 13:29:45
+Standard Lamp Name: 18Z
+Instrument Temperature: 21.5
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	60.9	61.6	61.3	61.3	13.57	12.38	-1.19
+Test C	63.0	62.6	62.5	62.7	17.72	16.28	-1.44
+Test D	63.3	63.1	63.2	63.2	19.32	18.80	-0.52
+
+
+05/12/2022 16:36:09
+Standard Lamp Name: 18Z
+Instrument Temperature: 23.1
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	60.6	60.4	60.5	60.5	12.74	12.38	-0.36
+Test C	62.4	61.8	62.0	62.1	17.03	16.28	-0.75
+Test D	63.2	63.6	62.6	63.1	19.25	18.80	-0.45
+
+

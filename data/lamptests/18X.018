@@ -1,0 +1,63 @@
+01/09/2021 11:39:47
+Standard Lamp Name: 18X
+Instrument Temperature: 21.7
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	61.0	61.0	60.9	61.0	12.54	13.07	 0.53
+Test C	62.6	62.5	62.8	62.6	16.74	16.83	 0.09
+Test D	63.2	63.2	63.0	63.1	18.95	19.54	 0.59
+
+
+08/09/2021 11:55:02
+Standard Lamp Name: 18X
+Instrument Temperature: 20.5
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	61.0	60.5	60.4	60.6	12.18	13.07	 0.89
+Test C	62.3	62.2	61.6	62.0	16.10	16.83	 0.73
+Test D	62.6	62.6	62.6	62.6	18.36	19.54	 1.18
+
+
+15/09/2021 09:59:15
+Standard Lamp Name: 18X
+Instrument Temperature: 22.1
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	61.2	61.2	61.0	61.1	12.72	13.07	 0.35
+Test C	62.7	63.0	63.0	62.9	17.03	16.83	-0.20
+Test D	63.5	63.5	63.0	63.3	19.17	19.54	 0.37
+
+
+23/09/2021 10:22:50
+Standard Lamp Name: 18X
+Instrument Temperature: 22.9
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	61.7	61.0	61.0	61.2	12.83	13.07	 0.24
+Test C	62.5	63.0	62.5	62.7	16.78	16.83	 0.05
+Test D	63.5	63.5	63.5	63.5	19.35	19.54	 0.19
+
+
+29/09/2021 13:51:18
+Standard Lamp Name: 18X
+Instrument Temperature: 24.7
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	61.6	61.9	61.9	61.8	13.44	13.07	-0.37
+Test C	62.6	62.8	63.0	62.8	16.92	16.83	-0.09
+Test D	63.6	63.6	63.7	63.6	19.50	19.54	 0.04
+
+
+04/11/2022 11:18:09
+Standard Lamp Name: 18X
+Instrument Temperature: 22.9
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	60.0	59.8	60.0	59.9	12.13	13.07	 0.94
+Test C	61.6	61.5	60.5	61.2	16.10	16.83	 0.73
+Test D	62.6	62.2	62.4	62.4	18.44	19.54	 1.10
+
+
+23/11/2022 13:22:56
+Standard Lamp Name: 18X
+Instrument Temperature: 21.7
+	1	2	3	Mean	N-value	N-ref.	Delta N
+Test A	61.6	61.5	61.6	61.6	13.89	13.07	-0.82
+Test C	62.8	62.6	62.8	62.7	17.75	16.83	-0.92
+Test D	63.5	63.5	63.0	63.3	19.47	19.54	 0.07
+
+
